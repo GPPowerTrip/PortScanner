@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Command: portscanner
+ArthurPlug: org.powertrip.excalibot.common.plugins.portscanner.Server
+KnightPlug: org.powertrip.excalibot.common.plugins.portscanner.Bot
+
+
